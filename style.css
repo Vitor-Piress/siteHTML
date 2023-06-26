@@ -38,7 +38,7 @@ p{
 }
 .partidas img{
     position: relative;
-    width: 65px;
+    width: 50px;
     display: flex;
 }
 .partidas h1, h2{
@@ -54,8 +54,16 @@ p{
     right: 243px;
     top: 25px;
 }
-.partidas-containers{
-    display: flex;
+.partidas-container {
     position: relative;
+    display: flex;
     flex-wrap: nowrap;
+    justify-content: center;
+  }
+#botafofoimagem{
+    position: relative;
+    top: 50px;
+    left: 400px;
+    width: 500px;
+    border-radius: 50%;
 }

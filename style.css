@@ -6,7 +6,7 @@ body{
     
 }
 p{
-    margin-top: 10px;
+    margin-top: 50px;
     text-align: center;
     position: relative;
     padding-left: 25%;
@@ -62,7 +62,7 @@ p{
   }
 #botafofoimagem{
     position: relative;
-    top: 50px;
+    top: 20px;
     left: 400px;
     width: 500px;
     border-radius: 50%;
